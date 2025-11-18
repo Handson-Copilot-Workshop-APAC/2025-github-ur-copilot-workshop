@@ -15,10 +15,6 @@ A production-ready Pomodoro Timer web application that helps you stay focused an
 - 🔔 **Browser notifications** when sessions complete
 - 📱 **Responsive design** that works on all devices
 
-## 🌐 Live Demo
-
-The application is deployed and available at:
-**http://pomodoro-timer-ecomindo-1763110994.azurewebsites.net/**
 
 ## 📚 Documentation
 
